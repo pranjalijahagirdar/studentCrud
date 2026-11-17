@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+body,
+app-root,
+app-student {
+    background-color: #F9F3FF !important;
+    min-height: 100vh;
+}
+
+html {
+    background-color: #F9F3FF !important;
+}
